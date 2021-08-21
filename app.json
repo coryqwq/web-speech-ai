@@ -5,7 +5,7 @@
   "keywords": ["ai", "api.ai", "bot", "w3c"],
   "env": {
     "APIAI_TOKEN": {
-      "description": "API.ai Client access token",
+      "description": "AIzaSyCmcqtA4mTyX3ZB_GkGwMqfYED7ArJJwYg",
       "value": ""
     },
     "APIAI_SESSION_ID": {
