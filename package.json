@@ -4,7 +4,7 @@
   "description": "Simple AI Chat Bot Demo with Web Speech API",
   "engines": {
       "node": "14.16.1"
-  }
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
